@@ -1,0 +1,3 @@
+moviepy==1.0.3
+opencv_python==4.5.2.54
+tkinterdnd2==0.4.2
